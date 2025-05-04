@@ -35,3 +35,4 @@ The attacker can use the vulnerability with the following steps:
 
 pyload:
 "₺?₺?₺?₺?₺?₺?₺?₺?₺?₺?₺??₺?₺?"
+not:interpreter.py vuln fixed
